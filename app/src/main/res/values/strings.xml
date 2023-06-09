@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyStory App</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="text_begin">Siap untuk membagikan keseruanmu dalam menyelesaikan kursus di Dicoding? Di sini, kamu dapat berbagi ceritamu dan melihat kisah-kisah menarik lainnya dari teman-teman sejawatmu! Bergabunglah dengan komunitas kami dan nikmati keseruan dari setiap perjalanan belajar!</string>
+    <string name="text_begin1">Bagikan keseruan kamu dalam menyelesaikan kursus dicoding</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="nama">nama</string>
+    <string name="logout">Logout</string>
+    <string name="buat_postingan">Buat Postingan</string>
+    <string name="capture">Capture</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="posting">Posting</string>
+    <string name="required">Wajib diisi!</string>
+    <string name="isValidEmail">Penulisan email tidak valid</string>
+    <string name="passwordLength">Minimal 8 karakter!</string>
+    <string name="image_story">Image story</string>
+    <string name="title_activity_story_maps">StoryMapsActivity</string>
+    <string name="story_location">Story location</string>
+    <string name="retry">Coba lagi</string>
+</resources>
